@@ -1,0 +1,4 @@
+requests
+python-dotenv
+vext
+vext.gi
